@@ -8,6 +8,10 @@ I process and clean the data, perform EDA and then use K-means clustering to gro
 
 After I have made sense of the clusters I give them sensible names: older/newer inner suburbs and older/newer outer suburbs. I then perform a significance test, which shows that the difference in the mean of solar units installed is statistically significant. This validates the clustering
 
+## Viewing this project
+
+To view this project it is recommended to paste the project URL into NBviewer.org so that you can view the interactive map of the clusters.
+
 ## Future Work
 * Using more visualisations techniques (like a 3D map) with folium and other libraries to draw more insights.
 * Adding more data from ABS - for example examining which demographic factors influence solar adoption.
